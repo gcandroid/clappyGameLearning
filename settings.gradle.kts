@@ -1,4 +1,4 @@
-rootProject.name = "gameFlappy"
+rootProject.name = "ClappyGameLearning"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
